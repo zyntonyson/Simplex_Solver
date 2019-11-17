@@ -1,0 +1,24 @@
+# Maximizar 1 minimizar 0
+#Var de decisión
+
+#Funcion objetivo
+
+# numero de restricciones menor igual
+
+# restricciones
+
+# lado derecho
+
+# numero de restricciones mayor igual
+
+# restricciones
+
+# lado derecho
+
+
+# numero de restricciones  igual
+
+# restricciones
+
+# lado derecho
+
