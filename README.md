@@ -1,8 +1,4 @@
-Para transformar el repositorio en un proyecto más atractivo, profesional y fácil de entender tanto para evaluadores técnicos como para estudiantes de optimización lineal, conviene estructurarlo con insignias de estado, una explicación clara del problema estándar que resuelve, instrucciones paso a paso de ejecución y un ejemplo concreto de entrada/salida.
 
-Aquí tienes una propuesta completa de `README.md` lista para copiar y pegar:
-
-```markdown
 # Simplex Solver
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
@@ -132,15 +128,4 @@ Las contribuciones son bienvenidas:
 
 Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-```
 
----
-
-### Puntos clave que mejoran la versión previa:
-1. **Contexto Matemático Claro:** Define de entrada qué clase de problema resuelve y con qué formato.
-2. **Ejemplo Concreto:** Quien visite el repositorio sabrá inmediatamente cómo estructurar la entrada y qué esperar como salida sin tener que descifrar el código fuente.
-3. **Estructura Modular:** Deja explícita la arquitectura de archivos y abre la puerta a contribuciones externas con el Roadmap y la guía de Pull Requests.
-
-<FollowUp label="¿Quieres que preparemos la implementación del Método de las Dos Fases o la Gran M?" query="Escribe la implementación en Python del método de las Dos Fases para extender este Simplex Solver."/>
-
-```
